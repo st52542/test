@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("pokusdsasasda");
-		SpringApplication.run(DemoApplication, args);
+		System.out.println("pokus");
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
